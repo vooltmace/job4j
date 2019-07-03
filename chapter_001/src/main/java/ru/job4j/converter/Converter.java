@@ -4,7 +4,7 @@ package ru.job4j.converter;
  * Корвертор валюты.
  * Romanov Pavel (vooltmace@gmail.com)
  */
-public class Converter {
+class Converter {
 
     /**
      * Конвертируем рубли в евро.
