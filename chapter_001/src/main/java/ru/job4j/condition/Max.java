@@ -11,8 +11,7 @@ public class Max {
      * @return result.
      */
     public int max(int left, int right) {
-        int result = left;
-        result = (left < right) ? left : right;
+        int result;
         result = (left > right) ? left : right;
         return result;
     }
