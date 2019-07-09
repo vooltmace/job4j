@@ -12,7 +12,7 @@ public class Max {
      */
     public int max(int left, int right) {
         int result;
-        result = (left > right) ? left : right;
+        result = left > right ? left : right;
         return result;
     }
 }
