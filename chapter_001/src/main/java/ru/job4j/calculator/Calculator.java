@@ -1,6 +1,5 @@
 package ru.job4j.calculator;
 
-@SuppressWarnings({"ALL", "WeakerAccess"})
 public class Calculator {
 
     public double add(double first, double second) {
